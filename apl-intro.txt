@@ -1,0 +1,1081 @@
+A PATTERN LANGUAGE
+Volume 1, The Timeless Way of Building, and Volume
+2, 4 Patrern Language, are two halves of a single work.
+This book provides a language, for building and plan-
+ning; the other book provides the theory and instruc-
+tions for the use of the language. This book. describes the
+detailed patterns for towns and neighborhoods, houses,
+gardens, and rooms. The other book explains the disci-
+pline which makes it possible to use these patterns to
+create a building or a town. This book is the sourcebook of
+the timeless way; the other is its practice and its origin.
+The two books have evolved very much in parallel.
+They have been growing over the last eight years, as
+we have worked on the one hand to understand the
+nature of the building process, and on the other hand to
+construct an actual, possible pattern language. We have
+been forced by practical considerations, to publish these
+two books under separate covers; but in fact, they form
+an indivisible whole. It is possible to read them sepa-
+rately. But to gain the insight which we have tried to
+communicate in them, it is essential that you read them
+both.
+The Timeless Way of Building describes the funda-
+mental nature of the task of making towns and buildings.
+A PATTERN LANGUAGE
+It is shown there, that towns and buildings will not be
+able to become alive, unless they are made by all the
+people in society, and unless these people share a com-
+mon pattern language, within which to make these
+buildings, and unless this cornmon pattern language is
+alive itself.
+Tn this book, we present one possible pattern language,
+of the kind called for in The Timeless Way. This lan-
+guage is extremely practical. It is a language that we
+have distilled from our own building and planning ef-
+forts over the last eight years. You can use it to work
+with your neighbors, to improve your town and neighbor-
+hood. You can use it to design a house for yourself,
+with your family; or to work with other people to de-
+sign an office or a workshop or a public building like a
+school. And you can use it to guide you in the actual
+process of construction.
+The elements of this language are entities called pat-
+terns. Each pattern describes a problem which occurs
+over and over again in our environment, and then
+describes the core of the solution to that problem, in such
+a way that you can use this solution a million times over,
+without ever doing it the same way twice.
+For convenience and clarity, each pattern has the same
+format. First, there is a picture, which shows an arche-
+typal example of that pattern. Second, after the picture,
+each pattern has an introductory paragraph, which sets
+the context for the pattern, by explaining how it helps
+to complete certain larger patterns. Then there are three
+diamonds to mark the beginning of the problem. After
+the diamonds there is a headline, in bold type. This
+A PATTERN LANGUAGE
+headline gives the essence of the problem in one or two
+sentences. After the headline comes the body of the
+problem. This is the longest section. It describes the
+empirical background of the pattern, the evidence for its
+validity, the range of different ways the pattern can be
+manifested in a building, and so on. Then, again in
+bold type, like the headline, is the solution—the heart
+of the pattern—which describes the field of physical and
+social relationships which are required to solve the stated
+problem, in the stated context. This solution is always
+exactly what you need to do, to build the pattern. Then,
+after the solution, there is a diagram, which shows the
+solution in the form of a diagram, with labels to indicate
+its main components.
+After the diagram, another three diamonds, to show
+that the main body of the pattern is finished. And finally,
+after the diamonds there is a paragraph which ties the
+pattern to all those smaller patterns in the language,
+which are needed to complete this pattern, to embellish
+it, to All it out.
+There are two essential purposes behind this format.
+First, to present each pattern connected to other patterns,
+so that you grasp the collection of all 253 patterns as a
+whole, as a language, within which you can create an in-
+finite variety of combinations. Second, to present the
+problem and solution of each pattern in such a way that
+you can judge it for yourself, and modify it, without
+losing the essence that is central to it.
+Let us next understand the nature of the connection
+between patterns.
+XI
+A PATTERN LANGUAGE
+The patterns are ordered, beginning with the very
+largest, for regions and towns, then working down
+through neighborhoods, clusters of buildings, buildings,
+rooms and alcoves, ending finally with details of con-
+struction.
+This order, which is presented as a straight linear
+sequerice, is essential to the way the language works. It is
+presented, and explained more fully, in the next section.
+What is most important about this sequence, is that it is
+based on the connections between the patterns. Each
+pattern is connected to certain “larger” patterns which
+come above it in the language; and to certain “smaller”
+patterns which come below it in the language. The pat-
+tern helps to complete those larger patterns which are
+“above” it, and is itself completed by those smaller pat-
+terns which are “below” it.
+Thus, for example, you will find that the pattern ac-
+CESSIBLE GREEN (60), is connected first to certain larger
+patterns: SUBCULTURE BOUNDARY (13), IDENTIFIABLE
+NEIGHBORHOOD (14), WORK COMMUNITY (41), and
+quirr Backs (59). These appear on its first page. And it
+is also connected to certain smaller patterns: PosiTIVE
+OUTDOOR SPACE (107), TREE PLACES (171), and GARDEN
+WALL (173). These appear on its last page.
+What this means, is that IDENTIFIABLE NEIGHBOR-
+HOOD, SUBCULTURE BOUNDARY, WORK COMMUNITY, and
+QUIET BACKS are incomplete, unless they contain an ac-
+CESSIBLE GREEN; and that an ACCESSIBLE GREEN is itself
+incomplete, unless it contains POSITIVE OUTDOOR SPACE,
+TREE PLACES, and a GARDEN WALL.
+And what it means in practical terms is that, if you
+x
+A PATTERN LANGUAGE
+want to lay out a green according to this pattern, you
+must not only follow the instructions which describe the
+pattern itself, but must also try to embed the green
+Within an IDENTIFIABLE NEIGHBORHOOD or in some sUB-
+CULTURE BOUNDARY, and in a way that helps to form
+quizr Backs; and then you must work to complete the
+green by building in some posiTIVE OUTDOOR SPACE,
+TREE PLACES, and a GARDEN WALL.
+In short, no pattern is an isolated entity. Each pattern
+can exist in the world, only to the extent that is sup-
+ported by other patterns: the larger patterns in which it
+is embedded, the patterns of the same size that surround
+it, and the smaller patterns which are embedded in it.
+This is a fundamental view of the world, It says that
+when you build a thing you cannot merely build that
+thing in isolation, but must also repair the world around
+it, and within it, so that the larger world at that one
+place becomes more coherent, and more whole; and the
+thing which you make takes its place in the web of na-
+ture, as you make it.
+Now we explain the nature of the relation between
+problems and solutions, within the individual patterns.
+Each solution is stated in such a way that it gives the
+essential field of relationships needed to solve the prob-
+lem, but in a very general and abstract way—so that you
+can solve the problem for yourself, in your own way, by
+adapting it to your preferences, and the local conditions
+at the place where you are making it.
+For this reason, we have tried to write each solution
+in a way which imposes nothing on you. It contains only
+those essentials which cannot be avoided if you really
+XU
+A PATTERN LANGUAGE
+want to solve the problem. In this sense, we have tried,
+in each solution, to capture the invariant property com-
+mon to all places which succeed in solving the problem.
+But of course, we have not always succeeded. The
+solutions we have given to these problems vary in signif-
+cance, Some are more true, more profound, more cer-
+tain, than others. To show this clearly we have marked
+every pattern, in the text itself, with two asterisks, or one
+asterisk, or no asterisks.
+In the patterns marked with two asterisks, we believe
+that we have succeeded in stating a true invariant: in
+short, that the solution we have stated summarizes a
+property common to all possible ways of solving the
+stated problem. In these two-asterisk cases we believe,
+in short, that it is not possible to solve the stated prob-
+lem properly, without shaping the environment in one
+way or another according to the pattern that we have
+given—and that, in these cases, the pattern describes
+a deep and inescapable property of a well-formed en-
+vironment.
+In the patterns marked with one asterisk, we believe
+that we have made some progress towards identifying
+such an invariant: but that with careful work it will
+certainly be possible to improve on the solution, In
+these cases, we believe it would be wise for you to treat
+the pattern with a certain amount of disrespect—and
+that you seek out variants of the solution which we have
+given, since there are almost certainly possible ranges of
+solutions which are not covered by what we have written.
+Finally, in the patterns without an asterisk, we are
+certain that we have mot succeeded in defining a true
+x1V
+A PATTERN LANGUAGE
+invariant—that, on the contrary, there are certainly ways
+of solving the problem different from the one which we
+have given. In these cases we have still stated a solution,
+in order to be concrete—to provide the reader with at
+least one way of solving the problem-—but the task of
+finding the true invariant, the true property which hes
+at the heart of all possible solutions to this problem, re-
+mains undone.
+We hope, of course, that many of the people who
+read, and use this language, will try to improve these
+patterns—will put their energy to work, in this task of
+finding more true, more profound invariants—and we
+hope that gradually these more true patterns, which are
+slowly discovered, as time goes on, will enter a common
+language, which all of us can share.
+You see then that the patterns are very much alive
+and evolving. In fact, if you like, each pattern may be
+looked upon as a hypothesis like one of the hypotheses of
+science. In this sense, each pattern represents our current
+best guess as to what arrangement of the physical envi-
+ronment will work to solve the problem presented. The
+empirical questions center on the problem—does it occur
+and is it felt in the way we have described it?—-and the
+solution—-does the arrangement we propose in fact re-
+solve the problem? And the asterisks represent our
+degree of faith in these hypotheses. But of course, no
+matter what the asterisks say, the patterns are still
+hypotheses, all 253 of them-—-and are therefore all
+tentative, all free to evolve under the impact of new
+experience and observation.
+Let us finally explain the status of this language, why
+A PATTERN LANGUAGE
+we have called it “A Pattern Language” with the em-
+phasis on the word “A,” and how we imagine this pat-
+tern language might be related to the countless thou-
+sands of other languages we hope that people will make
+for themselves, in the future.
+The Timeless Way of Building says that every society
+which is alive and whole, will have its own unique and
+distinct pattern language; and further, that every in-
+dividual in such a society will have a unique language,
+shared in part, but which as a totality is unique to the
+raind of the person who has it. In this sense, in a healthy
+society there will be as many pattern languages as there
+are people—even though these languages are shared and
+simular,
+The question then arises: What exactly is the status
+of this published language? In what frame of mind, and
+with what intention, are we publishing this language
+here? The fact that it is published as a book means that
+many thousands of people can use it. Is it not true that
+there is a danger that people might come to rely on this
+one printed language, instead of developing their own
+languages, in their own minds?
+The fact is, that we have written this book as a first
+step in the society-wide process by which people will
+gradually become conscious of their own pattern lan-
+guages, and work to improve them. We believe, and
+have explained in The Timeless Way of Building, that
+the languages which people have today are so brutal, and
+so fragmented, that most people no longer have any
+language to speak of at all—and what they do have is
+not based on human, or natural considerations.
+XVI
+& PATTERN LANGUAGE
+We have spent years trying to formulate this lan-
+guage, in the hope that when a person uses tt, he will
+be so impressed by its power, and so joyful in its use,
+that he will understand again, what it means to have a
+living language of this kind. [If we only succeed in that,
+it is possible that each person may once again embark on
+the construction and development of his own language—
+perhaps taking the language printed in this book, as a
+point of departure.
+And yet, we do believe, of course, that this language
+which is printed here is something more than a manual,
+or a teacher, or a version of a possible pattern language.
+Many of the patterns here are archetypal—so deep, so
+deeply rooted in the nature of things, that it seems likely
+that they will be a part of human nature, and human ac-
+tion, as much in five hundred years, as they are today.
+We doubt very much whether anyone could construct
+a valid pattern language, in his own mind, which did
+not include the pattern arcapes (119) for example, or
+the pattern aLcoves (179).
+In this sense, we have also tried to penetrate, as deep
+as we are able, into the nature of things in the environ-
+ment: and hope that a great part of this language, which
+we print here, will be a core of any sensible human pat-
+tern language, which any person constructs for himself,
+in his own mind. In this sense, at least a part of the
+language we have presented here, is the archetypal core
+of all possible pattern languages, which can make people
+feel alive and human.
+XVII
+SUMMARY OF THE LANGUAGE
+A pattern language has the structure of a network. This
+is explained fully in The Timeless Way of Bualdimg.
+However, when we use the network of a language, we
+always use it as a sequence, going through the patterns,
+moving always from the larger patterns to the smaller,
+always from the ones which create structures, to the ones
+which then embellish those structures, and then to those
+which embellish the embellishments. . . .
+Since the language is in truth a network, there is no
+one sequence which perfectly captures it. But the se-
+quence which follows, captures the broad sweep of the
+full network; in doing so, it follows a line, dips down,
+dips up again, and follows an irregular course, a little
+like a needle following a tapestry.
+The sequence of patterns is both a summary of the
+language, and at the same time, an index to the patterns.
+If you read through the sentences which connect the
+groups of patterns to one another, you will get an over-
+view of the whole language. And once you get this over-
+view, you will then be able to find the patterns which
+are relevant to your own project.
+And finally, as we shall explain in the next section,
+this sequence of patterns is also the “base map,” from
+KVL
+SUMMARY OF THE LANGUAGE
+which you can make a language for your own project,
+by choosing the patterns which are most useful to you,
+and leaving them more or less in the order that you
+find them printed here.
+We begin with that part of the language which defines
+a town or community. These patterns can never be “de-
+signed” or “buil?” in one fell swoop—but patient piece-
+meal growth, designed in such a way that every indi-
+vidual act is always helping to create or generate these
+larger global patterns, will, slowly and surely, over the
+years, make a community that has these global patterns
+in tk.
+I. INDEPENDENT REGIONS
+within each region work toward those regional policies
+which will protect the land and mark the limits of the
+cities;
+2. THE DISTRIBUTION OF TOWNS
+3. CIPY COUNTRY FINGERS
+4, AGRICULTURAL VALLEYS
+§. LACE OF COUNTRY STREETS
+6. COUNTRY TOWNS
+7. THE COUNTRYSIDE
+KIX
+SUMMARY OF THE LANGUAGE
+through city policies, encourage the piecemeal forma-
+tion of those major structures which define the city;
+8. MOSAIC OF SUBCULTURES
+9. SCATTERED WORK
+iO. MAGIC OF THE CITY
+I¥. LOCAL TRANSPORT AREAS
+build up these larger city patterns from the grass roots,
+through action essentially controlled by two levels of
+self-governing communities, which exist as physically
+identifiable places;
+12. COMMUNITY OF ‘7000
+13. SUBCULTURE BOUNDARY
+iq, IDENTIFIABLE NEIGHBORHOOD
+If. NEIGHBORHOOD BOUNDARY
+connect communities to one another by encouraging the
+growth of the following networks;
+16. WEB OF PUBLIC TRANSPORTATION
+17. RING ROADS
+18. NETWORK OF LEARNING
+19. WEB OF SHOPPING
+20, MINI-BUSES
+establish community and neighborhood policy to con-
+trol the character of the local environment according to
+the following fundamental principles,
+21, FOUR-STORY LIMIT
+SUMMARY OF THE LANGUAGE
+22. NINE PER CENT PARKING
+2%. PARALLEL ROADS
+24. SACRED SITES
+25. ACCESS TO WATER
+26, LIFE CYCLE
+27. MEN AND WOMEN
+both in the neighborhoods and the communities, and in
+between them, in the boundaries, encourage the forma-
+tion of local centers;
+28, ECCENTRIC NUCLEUS
+29, DENSITY RINGS
+30. ACTIVITY NODES
+31. PROMENADE
+32. SHOPPING STREET
+33. NIGHT LIFE
+34. INTERCHANGE
+around these centers, provide for the growth of housing
+in the form of clusters, based on face-to-face human
+groups;
+35. HOUSEHOLD MIX
+36. DEGREES OF PUBLICNESS
+37. HOUSE CLUSTER
+38. ROW HOUSES
+39. HOUSING HILL
+40, OLD PEOPLE EVERYWHERE
+XXi
+SUMMARY OF THE LANGUAGE
+between the house clusters, around the centers, and
+especially in the boundaries between neighborhoods, en-
+courage the formation of work communities;
+4.
+42.
+43.
+44.
+45.
+46.
+WORK COMMUNITY
+INDUSTRIAL RIBBON
+UNIVERSITY AS A MARKETPLACE
+LOCAL TOWN HALL
+NECKLACE OF COMMUNITY PROJECTS
+MARKET OF MANY SHOPS
+HEALTH CENTER
+HOUSING IN BETWEEN
+between the house clusters and work communities, allow
+the local road and path network to grow informally,
+piecemeal;
+49.
+50.
+LOOPED LOCAL ROADS
+~ JUNCTIONS
+Si.
+GREEN STREETS
+NETWORK OF PATHS AND CARS
+§3.
+MAIN GATEWAYS
+ROAD CROSSING
+- RAISED WALK.
+BIKE PATHS AND RACKS
+CHILDREN IN THE CITY
+Xxil
+SUMMARY OF THE LANGUAGE
+in the communities and neighborhoods, provide public
+open land where people can relax, rub shoulders and
+renew themselves;
+58.
+CARNIVAL
+59.
+QUIET BACKS
+60.
+ACCESSIBLE GREEN
+61.
+SMALL PUBLIC SQUARES
+62.
+HIGH FLACES
+63.
+DANCING IN THE STREET
+64.
+POOLS AND STREAMS
+65.
+BIRTH PLACES
+66.
+HOLY GROUND
+in each house cluster and work community, provide the
+smaller bits of common land, to provide for local ver-
+sions of the same needs;
+67.
+COMMON LAND
+68.
+CONNECTED PLAY
+69.
+PUBLIC OUTDCOR ROOM
+70.
+GRAVE SITES
+= 7i.
+STILL WATER
+72.
+LOCAL SPORTS
+73-
+ADVENTURE PLAYGROUND
+74
+ANIMALS
+within the framework of the common land, the clusters,
+and the work communities encourage transformation of
+XXHE
+SUMMARY OF THE LANGUAGE
+the smailest independent social institutions: the families,
+workgroups, and gathering places. The family, in all its
+forms;
+75. THE FAMILY
+76. HOUSE FOR A SMALL FAMILY
+77. HOUSE FOR A COUPLE
+78. HOUSE FOR ONE PERSON
+79. YOUR OWN HOME
+the workgroups, including all kinds of workshops and
+ofhces and even children’s learning groups;
+80. SELF-GOVERNING WORKSHOPS
+AND OFFICES
+8i. SMALL SERVICES WITHOUT RED TAPE
+$2, OFFICE CONNECTIONS
+83. MASTER AND APPRENTICES
+84, TEENAGE SOCIETY
+85. SHOPFRONT SCHOOLS
+86. CHILDREN’S HOME
+the iocal shops and gathering places.
+87. INDIVIDUALLY OWNED SHOPS
+88, STREET CAFE
+89. CORNER GROCERY
+90, BEER HALL
+QI, TRAVELER’S INN
+92. BUS STOP
+XXIV
+SUMMARY OF THE LANGUAGE
+93. FOOD STANDS
+94. SLEEPING IN PUBLIC
+This completes the global patterns which define a
+town or 4 community, We now start that part of the
+language which gives shape to groups of buildings, and
+individual buildings, on the land, in three dimensions.
+These ave the patterns which can be “designed” or
+“built” —the patterns which define the individual build-
+ings and the space between buildings; where we are deal-
+ing for the first time with pauerns that are under the
+control of individuals or small groups of individuals,
+who are able to build the patterns all at once.
+The first group of patterns helps to lay out the overall
+arrangement of a group of buildings: the height and
+number of these buildings, the entrances to the site, main
+parking areas, and lines of movement through the com-
+plex;
+95. BUILDING COMPLEX
+96. NUMBER OF STORIES
+97. SHIELDED PARKING
+98. CIRCULATION REALMS
+99. MAIN BUILDING
+100, PEDESTRIAN STREET
+IOI. BUILDING THOROUGHFARE
+102. FAMILY OF ENTRANCES
+103. SMALL PARKING LOTS
+SUMMARY OF THE LANGUAGE
+fix the position of individual buildings on the site, within
+the complex, one by one, according to the nature of the
+site, the trees, the sun: this is one of the most important
+moments in the language;
+104. SITE REPAIR
+105. SOUTH FACING OUTDOORS
+106, POSITIVE GUTDOOR SPACE
+iO]. WINGS OF LIGHT
+108, CONNECTED BUILDINGS
+rOg. LONG THIN HOUSE
+within the buildings’ wings, lay out the entrances, the
+gardens, courtyards, roofs, and terraces: shape both the
+volume of the buildings and the volume of the space be-
+tween the buildings at the same time—remembering
+that indoor space and outdoor space, yin and yang, must
+always get their shape together;
+11G, MAIN ENTRANCE
+lll. HALF-HIDBDEN GARDEN
+112. ENTRANCE TRANSITION
+II3. CAR CONNECTION
+114, HIERARCHY OF OPEN SPACE
+11§. COURTYARDS WHICH LIVE
+116, CASCADE OF ROOFS
+II7. SHELTERING ROOF
+118. ROOF GARDEN
+XXV1
+SUMMARY OF THE LANGUAGE
+when the major parts of buildings and the outdoor areas
+have been given their rough shape, it is the right time to
+give more detailed attention to the paths and squares
+between the buildings;
+119, ARCADES
+120, PATHS AND GOALS
+IZ. PATH SHAPE
+pet no ha BUILDING FRONTS
+in bo io)
+PEDESTRIAN DENSITY
+nm i]>
+ha bo tay
+ACTIVITY POCKETS
+STAIR SEATS
+od bo oN . SOMETHING ROUGHLY IN THE
+MIDDLE
+now, with the paths fixed, we come back to the buid-
+ings: within the various wings of any one building, work
+out the fundamental gradients of space, and decide how
+the movement will connect the spaces in the gradients;
+127, INTIMACY GRADIENT
+128, INDOOR SUNLIGHT
+129, COMMON AREAS AT THE HEART
+130. ENTRANCE ROOM
+131. THE FLOW THROUGH ROOMS
+132. SHORT PASSAGES
+13%. STAIRCASE AS A STAGE
+134. ZEN VIEW
+135. TAPESTRY OF LIGHT AND DARK
+XKVU
+SUMMARY OF THE LANGUAGE
+within the framework of the wings and their internal
+gradients of space and movement, define the most im-
+portant areas and rooms. First, for a house;
+136.
+COUPLE’S REALM
+CHILDREN’S REALM
+137.
+138.
+SLEEPING TO THE EAST
+139.
+FARMHOUSE KITCHEN
+140.
+idt.
+PRIVATE TERRACE ON THE STREET
+A ROOM OF ONE’S OWN
+14.2,
+SEQUENCE OF SITTING SPACES
+144.
+BED CLUSTER
+I44.
+BATHING ROOM
+145.
+BULK STORAGE
+then the same for offices, workshops, and public build-
+ings;
+146.
+FLEXIBLE OFFICE SPACE
+147.
+148.
+COMMUNAL EATING
+SMALL WORK GROUPS
+149.
+RECEPTION WELCOMES YOU
+150.
+A PLACE TO WAIT
+it,
+SM4LL MEETING ROOMS
+152,
+HALF-PRIVATE OFFICE
+add those small outbuildings which must be slightly in-
+dependent from the main structure, and put in the access
+from the upper stories to the street and gardens;
+ZxVLil
+SUMMARY OF THE LANGUAGE
+153.
+154.
+ROOMS TO RENT
+TEENAGER’S COTTAGE
+155.
+156.
+OLD AGE COTTAGE
+SETTLED WORK
+157.
+198.
+HOME WORKSHOP
+OPEN STAIRS
+prepare to knit the inside of the building to the outside,
+by treating the edge between the two asa place in its own
+right, and making human details there;
+159.
+160.
+161.
+162.
+163.
+164.
+165.
+166.
+167.
+168,
+LIGHT ON TWO SIDES OF EVERY ROOM
+BUILDING EDGE
+SUNNY PLACE
+NORTH FACE
+OUTDOOR ROOM
+STREET WINDOWS
+OPENING TO THE STREET
+GALLERY SURROUND
+SIX-FOOT BALCONY
+CONNECTION TO THE EARTH
+decide on the arrangement of the gardens, and the places
+in the gardens;
+169.
+TERRACED SLOPE
+170.
+FRUIT TREES
+171,
+TREE PLACES
+xxix
+SUMMARY OF THE LANGUAGE
+172. GARDEN GROWING WILD
+17%. GARDEN WALL
+174. TRELLISED WALK
+176, GREENHOUSE
+176, GARDEN SEAT
+177. VEGETABLE GARDEN
+178. COMPOST
+go back to the inside of the building and attach the neces-
+sary nunor rooms and alcoves to complete the main
+rooms;
+E79, ALCOVES
+180, WINDOW PLACE
+181. THE FIRE
+182, EATING ATMOSPHERE
+18%. WORKSPACE ENCLOSURE
+184. COOKING LAYOUT
+185. SITPING CIRCLE
+186. COMMUNAL SLEEPING
+187. MARRIAGE BED
+188. BED ALCOVE
+189. DRESSING ROOM
+fine tune the shape and size of rooms and alcoves to
+make them precise and buildable,
+190. CEILING HEIGHT VARIETY
+AK
+SUMMARY OF THE LANGUAGE
+191. THE SHAPE OF INDOOR SPACE
+I Se 92, WINDOWS OVERLOOKING LIFE
+193. HALF-OPEN WALL
+194. INTERIOR WINDOWS
+195, STAIRCASE VOLUME
+196. CORNER DOORS
+give all the walls some depth, wherever there are to be
+alcoves, windows, shelves, closets, or seats;
+197. THICK WALLS
+198. CLOSETS BETWEEN ROOMS
+199. SUNNY COUNTER
+200, OPEN SHELVES
+201. WAIST-HIGH SHELF
+202, BUILT-IN SEATS
+204. CHILD CAVES
+204. SECRET PLACE
+At this stage, you have a complete design for an in-
+dividual building. If you have followed the patierns
+given, you have a stheme of spaces, either marked on
+the ground, with stakes, or on a piece of paper, accurate
+to the nearest foot or so. You know the height of rooms,
+the rough size and position of windows and doors, and
+you know roughly how the roofs of the building, and
+the gardens are lud out.
+Lhe next, and last part of the language, tells how to
+KX}
+SUMMARY OF THE LANGUAGE
+make a buildable building directly from this rough
+scheme of spaces, and tells you how to build it, in detail.
+Before you lay out structural details, establish a
+philosophy of structure which will let the structure grow
+directly from your plans and your conception of the
+buildings;
+toa) re
+» STRUCTURE FOLLOWS SOCIAL SPACES
+206. EFFICIENT STRUCTURE
+207. GOOD MATERIALS
+208, GRADUAL STIFFENING
+within this philosophy of structure, on the basis of the
+plans which you have made, work out the complete
+structural layout; this is the last thing you do on paper,
+before you actually start to build;
+209. ROOF LAYOUT
+210. FLOOR AND CEILING LAYOUT
+211, THICKENING THE OUTER WALLS
+bo — bk . COLUMNS AT THE CORNERS
+ho P3. FINAL COLUMN DISTRIBUTION
+put stakes in the ground to mark the columns on the site,
+and start erecting the main frame of the building accord-
+ing to the layout of these stakes,
+214. ROOT FOUNDATIONS
+21§. GROUND FLOOR 5La8
+216. BOX COLUMNS
+XXxU
+SUMMARY OF THE LANGUAGE
+217. PERIMETER BEAMS
+218, WALL MEMBRANES
+219. FLOOR-CEILING VAULTS
+220. ROOF VAULTS
+within the main frame of the building, fix the exact po-
+sitions for openings—the doors and windows—and frame
+these openings;
+221, NATURAL DOORS AND WINDOWS
+222. LOW SILL
+223. DEEP REVEALS
+224. LOW DOORWAY
+225. FRAMES AS THICKENED EDGES
+as you build the main frame and its openings, put in the
+following subsidiary patterns where they are appropriate;
+226. COLUMN PLACE
+227. COLUMN CONNECTION
+228. STAIR VAULT
+229. DUCT SPACE
+230. RADIANT HEAT
+231. DORMER WINDOWS
+232. ROOF CAPS
+put in the surfaces and indoor details;
+233. FLOOR SURFACE
+234. LAPPED OUTSIDE WALLS
+xxxill
+SUMMARY OF THE LANGUAGE
+2.35, SOFT INSIDE WALLS
+236, WINDOWS WHICH OPEN WIDE
+237. SOLID DOORS WITH GLASS
+238, FILTERED LIGHT
+239. SMALL PANES
+240. HALF-INCH TRIM
+build outdoor details to finish the outdoors as fully as
+the indoor spaces;
+241. SEAT SPOTS
+242, FRONT DOOR BENCH
+244%. SITTING WALL
+244. CANVAS ROOFS
+245. RAISED FLOWERS
+246, CLIMBING PLANTS
+247. PAVING WITH CRACKS BETWEEN
+THE STONES
+248, SOFT TILE AND BRICK
+complete the building with ornament and light and color
+and your own things;
+249. ORNAMENT
+250. WARM COLORS
+251. DIFFERENT CHAIRS
+252. POOLS OF LIGHT
+26%. THINGS FROM YOUR LIFE
+MKXLV
+CHOOSING A LANGUAGE
+FOR YOUR PROJECT
+All 253 patterns together form a language. They create
+a coherent picture of an entire region, with the power
+to generate such regions in a million forms, with in-
+finite variety in all the details.
+It 1s also true that any small sequence of patterns from
+this language is itself a language for a smaller part of
+the environment; and this small list of patterns is then
+capable of generating a million parks, paths, houses,
+workshops, or gardens.
+For example, consider the following ten patterns:
+PRIVATE TERRACE ON THE STREET (140)
+SUNNY PLACE (161)
+OUTDOOR ROOM (163)
+SIX-FOOT BALCONY (167)
+PATHS AND GOALS (120)
+CEILING HEIGHT VARIETY (190)
+COLUMNS AT THE CORNERS (212)
+FRONT DOOR BENCH (242)
+RAISED FLOWERS (245)
+DIFFERENT CHAIRS (251)
+This short list of patterns is itself a language: it is one
+of a thousand possible languages for a porch, at the front
+of a house, One of us chose this small language, to build
+AXERV
+CHOOSING A LANGUAGE FOR YOUR SUBYJECT
+a porch onto the front of his house. This is the way the
+language, and its patterns, helped to generate this porch.
+I started with PRIVATE TERRACE ON THE sTREET (140). That
+pattern calls for a terrace, slightly raised, connected to the house,
+and on the street side. suNNY PLACE (161) suggests that a special
+place on the sunny side of the yard should be intensified and
+made into a place by the use of a patio, balcony, outdoor room,
+etc, | used these two patterns to locate a raised platform on the
+south side of the house.
+it half under the existing roof overhang, and kept a mature
+pyracanthus tree right smack in the middle of the platform. The
+overhead foliage of the tree added to the roof-like enclosure of
+the space. I put a wind screen of fixed glass on the west side of
+the platform too, to give it even more enclosure.
+platform. But this pattern had to be used judiciously and not
+blindly—the reasoning for the pattern has to do with the mini-
+mum space required for people to sit comfortably and carry on a
+discussion around a small side-table. Since 1 wanted space for at
+least two of these conversation areas—one under the roof for very
+feet square.
+Now PATHS AND Goats (120): Usually, this pattern deals with
+large paths in a neighborhood, and comes much earlier in a lan-
+guage. But I used it in a special way. It says that the paths which
+naturally get formed by people’s walking, on the land, should be
+preserved and intensified. Since the path to our front door cut
+right across the corner of the place where 1 had planned to put
+the platform, 1 cut the corner of the platform aff.
+The height of the platform above the ground was determined
+by CEILING HEIGHT varieETY (190). By building the platform
+approximately one foot above the ground line, the ceiling height
+of the covered portion came out at between 6 and 7 feet——just
+right for a space as small as this. Since this height above the
+BOOR BENCH (242) was automatically satisfied.
+There were three columns standing, supporting the roof over
+XXXVI]ground level is just about right for sitting, the pattern FRONT
+hot or rainy days, and one out under the sky for days when you
+wanted to be full in the sun, the balcony had to be made 12 x 12
+I used six-Foor BaLcony (167) to determine the size of the
+To make this platform into an ovTsoor Room (163), I put
+CHOOSING A LANGUAGE FOR YOUR SUBJECT
+the old porch, They had to stay where they are, because they hold
+the roof up. But, following covumns ar THE coRNERs (212),
+the platform was very carefully tailored to their positions—so that
+the columns help define the social spaces on either side of them.
+Finally, we put a couple of flower boxes next to the “front door
+bench”—it’s nice to smell them when you sit there—according to
+RAISED FLowERs (245). And the old chairs you can see in the
+porch are DIeFERENT CHAIRS (251).
+You can see, from this short example, how powerful
+and simple a pattern language is, And you are now,
+perhaps ready to appreciate how careful you must be,
+when you construct a language for yourself and your
+own project.
+The character of the porch is given by the ten patterns
+in this short language. In just this way, each part of the
+environment is given its character by the collection of
+patterns which we choose to build into it. The character
+of what you build, will be given to it by the language of
+patterns you use, to generate it.
+Xxxvii
+CHOOSING A LANGUAGE FOR YOUR SUBJECT
+For this reason, of course, the task of choosing a lan-
+guage for your project is fundamental. The pattern lan-
+guage we have given here contains 253 patterns. You
+can therefore use it to generate an almost unimaginably
+large number of possible different smaller languages,
+for all the different projects you may choose to do,
+simply by picking patterns from it.
+We shall now describe a rough procedure by which
+you can choose a language for your own project, first by
+taking patterns from this language we have printed here,
+and then by adding patterns of your own.
+r. First of all, make a copy of the master sequence
+(pages xix-xxxiv) on which you can tick off the patterns
+which will form the language for your project. If you
+don’t have access to a copying machine, you can tick off
+patterns in the list printed in the book, use paper clips
+to mark pages, write your own list, use paper markers—
+whatever you like. But just for now, to explain it clearly,
+we shall assume that you have a copy of the list in front
+of you.
+2. Scan down the list, and find the pattern which
+best describes the overall scope of the project you have
+in mind, This is the starting pattern for your project.
+Tick it. CIE there are two or three possible candidates,
+don’t worry: just pick the one which seems best: the
+others will fall in place as you move forward.)
+3. Turn to the starting pattern itself, in the book, and
+read it through. Notice that the other patterns men-
+tioned by name at the beginning and at the end, of the
+pattern you are reading, are also possible candidates for
+your language. The ones at the beginning will tend to be
+“larger” than your project. Don’t include them, unless
+XXXVI
+CHOOSING A LANGUAGE FOR YOUR SUBJECT
+you have the power to help create these patterns, at least
+in a small way, in the world around your project. The
+ones at the end are “smaller.” Almost all of them will
+be important. Tick all of them, on your list, unless you
+have some special reason for not wanting to include
+them.
+4. Now your list has some more ticks on it. Turn to
+the next highest pattern on the list which is ticked, and
+open the book to that pattern. Once again, it will lead
+you to other patterns. Once again, tick those which are
+relevant—especially the ones which are “smaller” that
+come at the end. As a general rule, do not tick the ones
+which are “larger” unless you can do something about
+them, concretely, in your own project.
+5. When in doubt about a pattern, don’t include it.
+Your list can easily get too long: and if it does, it will
+become confusing. The list will be quite long enough,
+even if you only include the patterns you especially like.
+6. Keep going like this, until you have ticked all the
+patterns you want for your project.
+7. Now, adjust the sequence by adding your own ma-
+terial. If there are things you want to include in your
+project, but you have not been able to find patterns which
+correspond to them, then write them in, at an appropri-
+ate point in the sequence, near other patterns which are
+of about the same size and importance. For example,
+there is no pattern for a sauna. If you want to include
+one, write it in somewhere near BATHING ROOM (144)
+in your sequence.
+8. And of course, if you want to change any patterns,
+change them. There are often cases where you may have
+a personal version of a pattern, which is more true, or
+XXXIN
+CHOCSING A LANGUAGE FOR YOUR SUBJECT
+more relevant for you. In this case, you will get the most
+“power” over the language, and make it your own most
+effectively, if you write the changes in, at the appropri-
+ate places in the book. And, it will be most concrete of
+all, if you change the name of the pattern too—so that
+it captures your own changes clearly.
+yp oe
+Suppose now that you have a language for your proj-
+ect. The way to use the language depends very much
+on its scale. Patterns dealing with towns can only be
+implemented gradually, by grass roots action; patterns
+for a building can be built up in your mind, and marked
+out on the ground; patterns for construction must be
+built physically, on the site. For this reason we have
+given three separate instructions, for these three different
+scales. For towns, see page 3; for buildings, see page
+463; for construction, see page 935.
+The procedures for each of these three scales are de-
+scribed in much more detail with extensive examples,
+in the appropriate chapters of The Timeless Way of
+Building. For the town—see chapters 24 and 25; for an
+individual building—see chapters 20, 21, and 22; and for
+the process of construction which describes the way a
+building is actually built see chapter 23.
+xh
+THE POETRY OF THE LANGUAGE
+Finally, a note of caution. This language, lke English,
+can be a medium for prose, or a medium for poetry. The
+difference between prose and poetry is not that different
+Janpuages are used, but that the same language is used,
+differently. In an ordinary English sentence, each word
+has one meaning, and the sentence too, has one simple
+meaning. In a poem, the meaning is far more dense.
+Each word carries several meanings; and the sentence
+as a Whole carries an enormous density of interlocking
+meanings, which together illuminate the whole.
+The same is true for pattern languages. It is possible
+to make buildings by stringing together patterns, in a
+rather loose way. A building made like this, is an as-
+sembly of patterns. It is not dense. It is not profound.
+But it 1s also possible to put patterns together in such a
+way that many many patterns overlap in the same
+physical space: the building is very dense; it has many
+meanings captured in a small space; and through this
+density, it becomes profound.
+In a poern, this kind of density, creates illumination,
+by making identities between words, and meanings,
+whose identity we have not understood before. In “O
+Rose thou art sick,” the rose is identifed with many
+xii
+THE POETRY OF THE LANGUAGE
+greater, and more personal things than any rose—and
+the poem illuminates the person, and the rose, because of
+this connection. The connection not only illuminates the
+words, but also illuminates our actual lives.
+© Rose thon art sick,
+‘The invisible worm,
+That flies in the night
+in the howling storm:
+Has found out thy bed
+OF crimson joy:
+And his dark secret Jove
+Does thy life destroy,
+WILLIAM BLAKE
+The same exactly, happens in a building, Consider, for
+example, the two patterns BATHING ROOM (144) and
+STILL WATER (71). One defines a part of a house where
+you can bathe yourself slowly, with pleasure, perhaps
+in company; a place to rest your limbs, and to relax. The
+other is a place in a neighborhood, where this is water
+to gaze into, perhaps to swim in, where children can sail
+boats, and splash about, which nourishes those parts of
+ourselves which rely on water as one of the great
+elements of the unconscious.
+Suppose now, that we make a complex of buildings
+where individual bathing rooms are somehow connected
+to a common pond, or lake, or pool—where the bathing
+room merges with this common place; where there is no
+sharp distinction between the individual and family pro-
+cesses of the bathing room, and the common pleasure
+of the common pool. In this place, these two patterns
+THE POETRY OF THE LANGUAGE
+exist in the same space; they are identified, there is a
+compression of the two, which requires less space, and
+which is more profound than in a place where they are
+merely side by side. The compression illuminates each
+of the patterns, sheds light on its meaning; and also i-
+luminates our lives, as we understand a little more about
+the connections of our inner needs.
+But this kind of compression is not only poetic and
+profound. It is not only the stuff of poems and exotic
+statements, but to some degree, the stuff of every English
+sentence. To some depree, there is compression in every
+single word we utter, just because each word carries the
+whisper of the meanings of the words it is connected to.
+Even “Please pass the butter, Fred” has some compres-
+sion in it, because it carries overtones that lie in the con-
+nections of these words to all the words which came be-
+fore it.
+Fach of us, talking to our friends, or to our families,
+makes use of these compressions, which are drawn out
+from the connections between words which are given by
+the language. The more we can feel all the connections
+in the language, the more rich and subtle are the things
+we say at the most ordinary times.
+And once again, the same is true in building. The com-
+pression of patterns into a single space, is not a poetic
+and exotic thing, kept for special buildings which are
+works of art. It is the most ordinary economy of space. It
+is quite possible that all the patterns for a house might,
+in some form be present, and overlapping, in a simple
+one-room cabin, The patterns do not need to be strung
+out, and kept separate. Every building, every room,
+xd
+THE POETRY OF THE LANGUAGE
+every garden is better, when all the patterns which it
+needs are compressed as far as it is possible for them to
+be. The building will be cheaper; and the meanings in it
+will be denser.
+It is essential then, once you have learned to use the
+language, that you pay attention to the possibility of
+compressing the many patterns which you put together,
+in the smallest possible space. You may think of this
+process of compressing patterns, as a way to make the
+cheapest possible building which has the necessary pat-
+terns in it. It is, also, the only way of using a pattern
+language to make buildings which are poems.

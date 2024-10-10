@@ -1,0 +1,25 @@
+{
+  "name": "pattern-language-ai",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/uuid": "^10.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@ai-sdk/anthropic": "^0.0.51",
+    "ai": "^3.4.9",
+    "chromadb": "^1.9.2",
+    "chromadb-default-embed": "^2.13.2",
+    "commander": "^12.1.0",
+    "ollama": "^0.5.9",
+    "pdf-lib": "^1.17.1",
+    "uuid": "^10.0.0"
+  },
+  "scripts": {
+    "start": "bun run index.ts"
+  }
+}
