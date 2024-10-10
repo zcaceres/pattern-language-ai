@@ -1,8 +1,6 @@
-# A Pattern Language - Contextual Retrieval Experiment (October 7, 2024)
+# A Pattern Language - Contextual Retrieval Experiment (October 10, 2024)
 
-Problem: `A Pattern Language` by Christopher Alexander is huge (1,200+ pages). To retrieve from it, we'll need some smart way to get stuff into context.
-
-Solution: Let's implement Anthropic's new [Contextual Retrival technique](https://www.anthropic.com/news/contextual-retrieval) using A Pattern Language by Christopher Alexander as the source data.
+Let's implement Anthropic's new [Contextual Retrival technique](https://www.anthropic.com/news/contextual-retrieval) using A Pattern Language by Christopher Alexander as the source corpus.
 
 ```mermaid
 ---
