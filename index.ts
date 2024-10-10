@@ -5,7 +5,7 @@ import { generateEmbeddings } from "./src/generate/generate-embeddings";
 import { preparePDF } from "./src/generate/prepare-pdf";
 import { splitPDF } from "./src/generate/split-pdf";
 import ContextGenerator from "./src/generate/generate-context";
-import getChromeDB from "./src/db/chroma";
+import { retrieve } from "./src/retrieve";
 
 const program = new Command();
 
@@ -89,9 +89,8 @@ program
   .description("Query the ChromaDB")
   .argument("<query...>", "Query string")
   .action(async (query: string[]) => {
-    const chroma = await getChromeDB();
-    const results = await chroma.query(query.join(" "));
-    console.log("Query results:", results.documents[0].length);
+    const results = await retrieve(query.join(" "));
+    // console.log("Query results:", results);
   });
 
 program.parse(process.argv);

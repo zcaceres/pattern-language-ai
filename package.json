@@ -4,6 +4,7 @@
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest",
+    "@types/lodash.uniq": "^4.5.9",
     "@types/uuid": "^10.0.0"
   },
   "peerDependencies": {
@@ -15,6 +16,7 @@
     "chromadb": "^1.9.2",
     "chromadb-default-embed": "^2.13.2",
     "commander": "^12.1.0",
+    "lodash.uniq": "^4.5.0",
     "ollama": "^0.5.9",
     "pdf-lib": "^1.17.1",
     "uuid": "^10.0.0"
